@@ -430,7 +430,3 @@ If you like or are using this project to learn or start your journey as ml engin
 
 * [70+ machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 
-# Wrap up
-
-If you think this roadmap lacks resources or is incomplete , feel free to message me on [Linkedin](https://linkedin.com/in/someman-budhathoki).
-
